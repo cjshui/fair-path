@@ -13,8 +13,7 @@ We further fromulate the problem as a bi-level optimization and formally justify
 
 - Pytorch >=1.0, 
 - Scikit-learn >= 0.19.1
-- Torchvision >= 0.2 (celeba)
-- Tranformers >=4.13 (toxic comments)
+
 
  
 ## Models
